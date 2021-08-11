@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AskBall</string>
+    <string name="title">You can ask anything.</string>
+    <string name="ask">Ask</string>
+</resources>
